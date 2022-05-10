@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { CloseButton } from "../CloseButton";
 
 // Sempre fazer as importações de outros arquivos via JS
 import bugImageUrl from "../../assets/bug.svg";
